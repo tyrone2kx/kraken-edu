@@ -1,0 +1,50 @@
+.roadMap {
+    border-radius: 5px;
+    padding: 20px;
+    margin-top: 20px;
+    width: 100%;
+    background: #FFF;
+}
+
+.roadMap__header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 10px;
+}
+
+.roadMap__text {
+    color: rgb(6, 43, 68);
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.roadMap__link {
+    font-size: 9px;
+    text-decoration: underline;
+}
+
+.roadMap__list {
+    display: flex;
+    justify-content: space-between;
+    margin: 0px;
+}
+
+
+.roadMap__bullet {
+    font-size: 9px;
+}
+
+.roadMap__content {
+    display: flex;
+    align-items: center;
+}
+
+.roadMap__list_text {
+    margin-left: 10px;
+    font-size: 12px;
+}
+
+.roadMap__number {
+    font-size: 12px;
+}
